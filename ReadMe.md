@@ -9,14 +9,16 @@ GOOGLE_CLIENT_ID= YOUR_GOOGLE_ID_HERE
 GOOGLE_CLIENT_SECRET= YOUR_GOOGLE_CLIENT_SECRET_HERE
 GOOGLE_CALLBACK_URL=http://localhost:5001/google/callback
 
-1. Install dependencies: npm install
-2. Run npm to access app: npm start
+Install dependencies: npm install
+Run npm to access app: npm start
 
 
 
 About this App:
 
-This app uses google authentication to Sign Up/Login. Without a successful login, you will receive 'Access Denied' to the Dashboard. Also for security purposes, the session will time out after  
+This app uses google authentication to Sign Up/Login. Without a successful login, you will receive 'Access Denied' to the Dashboard. Also for security purposes, the session will time out after an hour. Between this and using MongoDB for our database, it ensures you and only you will have access to your notes.
+
+
 
 
 
