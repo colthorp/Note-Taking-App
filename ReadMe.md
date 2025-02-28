@@ -1,12 +1,9 @@
 Instructions:
 For this project you will need:
 
-1. MongoDB
-2. Google Account
-3. Dependencies as listed in package.json
-
-
-.env File:
+1. Google Account
+2. Dependencies as listed in package.json
+3. .env file:
 MONGODB_URI = mongodb+srv://<username>:<password>@mongodburlhere
 GOOGLE_CLIENT_ID= YOUR_GOOGLE_ID_HERE
 GOOGLE_CLIENT_SECRET= YOUR_GOOGLE_CLIENT_SECRET_HERE
@@ -35,7 +32,7 @@ That being said, there we're dificulties. Like a lot haha.
 - And for about 85% of those errors, I learned how important having the correct spelling and order of numbers are. Couldn't tell you how long it took me to figure out that I misspelled 'Dashboard'
 - With all the different files and folders, I had a hard time knowing what section of code goes where, and ultimately why.
 - Sometimes even though I was already logged in, I would click Dashboard but I would get the error 'Access Denied' which is set to show if you're not logged in
-- When it came to the Github uploading, I wasn't too confident that I did it correctly.
+- When it came to the Github uploading, I didn't know what to do - Thank you G for your guidence on this one or it might not ever be uploaded
 
 But with problems, we learn and thanks to the world wide web, and some helpful sites/people, I was able to make my way through this project. And learning the whole time I did so. I also very much appreicate the timeline given to us for this one. I'm sure it's something you can put together in a matter of minutes, but for me that's not the case.
 
