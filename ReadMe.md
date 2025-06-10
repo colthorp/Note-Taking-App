@@ -37,7 +37,7 @@ That being said, there we're dificulties. Like a lot haha.
 - When it came to the Github uploading, I didn't know what to do - Thank you G for your guidence on this one or it might not ever be uploaded
 - while trying to upload the repository, we noticed the .gitignore was still showing the listed folders
 
-But with problems, we learn and thanks to the world wide web, and some helpful sites/people, I was able to make my way through this project. And learning the whole time I did so. I also very much appreicate the timeline given to us for this one. I'm sure it's something you can put together in a matter of minutes, but for me that's not the case.
+But with problems, we learn and thanks to the world wide web, and some helpful sites/people, I was able to make my way through this project. And learning the whole time I did so.
 
 Thank you!
 Renée 
